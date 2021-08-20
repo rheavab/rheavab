@@ -1,6 +1,6 @@
 # Hola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Rhea Banerjee
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=pratham3012&label=Views&color=blue&style=plastic" alt="rheavab" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=rheavab&label=Views&color=blue&style=plastic" alt="rheavab" /> </p>
 
 
 <a href="https://www.linkedin.com/in/rhea-banerjee-155405192/">
@@ -22,8 +22,8 @@
 - 📫 How to reach me: [G-Mail](mailto:rheabanerjee2000@gmail.com)
 - ⚡ Fun fact: I can read two books in a day
 
-[![Linkedin: Pratham Wanmode](https://img.shields.io/badge/-rheabanerjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhea-banerjee-155405192/)](https://www.linkedin.com/in/rhea-banerjee-155405192/)
-[![GitHub pratham3012](https://img.shields.io/github/followers/pratham3012?label=follow&style=social)](https://github.com/rheavab/)
+[![Linkedin: Rhea Banerjee](https://img.shields.io/badge/-rheabanerjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhea-banerjee-155405192/)](https://www.linkedin.com/in/rhea-banerjee-155405192/)
+[![GitHub rheavab](https://img.shields.io/github/followers/rheavab?label=follow&style=social)](https://github.com/rheavab/)
 
 
 
@@ -44,7 +44,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheavab&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/rheavab">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham3012&show_icons=true&theme=light&line_height=27" alt="Rhea's Github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rheavab&show_icons=true&theme=light&line_height=27" alt="Rhea's Github stats"/>
 </a>
 
 
