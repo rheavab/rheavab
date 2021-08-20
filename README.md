@@ -15,8 +15,8 @@
 
 <br/>
 
-<> - 🔭 I’m currently working on [Electron Beam Radiation Processing Facility - RRCAT(DAE),Indore](https://github.com/EBRPF/arpf).
-<> - 💻 Summer Trainee at [Raja Ramanna Centre For Advanced Technology, Indore](https://www.rrcat.gov.in/)
+- ✏️️ I’m currently working at ICY Tales as a Content Writer.
+- 💻 Social Media Lead at CodeAcademy  VIT Bhopal Chapter
 - 🌱 I’m currently learning more about Data Science.
 - 💬 Ask me about any Programming and Stuff.
 - 📫 How to reach me: [G-Mail](mailto:rheabanerjee2000@gmail.com)
